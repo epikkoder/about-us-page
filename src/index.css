@@ -1,0 +1,25 @@
+.panes {
+    text-align: center;
+}
+
+.panes div {
+    width: 33%;
+    float: left;
+    border: 1px solid black;
+}
+
+.panes img {
+    max-width: 40%;
+    float: left;
+}
+
+.thumbsList {
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    clear: both;
+}
+
+.thumbnail {
+    margin: 5px;
+}
